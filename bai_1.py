@@ -1,5 +1,4 @@
 import math
-
 r=float(input("nhap ban kinh: ")) 
 h=float(input("nhap chieu cao: "))
 pi = 3.14
