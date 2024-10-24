@@ -12,3 +12,4 @@ if r > 0 and h > 0:
    print(f"The tich: {the_tich:.2f}")
 else:
    print("Loi gia tri vui long nhap lai") 
+print("ket thuc chuong trinh")   
