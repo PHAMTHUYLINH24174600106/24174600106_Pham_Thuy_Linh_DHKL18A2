@@ -1,3 +1,4 @@
+import math
 t_gian = int(input("thoi gian su dung (s): "))
 u = 220
 i = 2.7 
