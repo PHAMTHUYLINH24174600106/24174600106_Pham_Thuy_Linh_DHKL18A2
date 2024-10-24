@@ -1,5 +1,4 @@
 import math
-
 x = float(input("nhap gia tri: ")) 
 if x > 0 and x != 1 :
     logx4 = math.log(x,4)
