@@ -341,7 +341,7 @@ while True:
             # - "Mã sinh viên"
             # - "Họ đệm"
             # - "Tên"
-            # - "Điểm toán"
+            # - "Điểm toán"00     
             # - "Điểm lý"
             # - "Điểm hóa"
             # - "Điểm trung bình" được tính từ 3 điểm toán, lý, hóa
